@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Cabbage Salad",
+    "image": "https://media.istockphoto.com/photos/salad-plate-picture-id175197961?k=20&m=175197961&s=612x612&w=0&h=SDYkOzsn_stA97UW1O_YqBoB0RIncCbzR38VzhjQ8T0=",
+    "price": 220,
+    "portion": 350,
+    "quantity": 1,
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Bean Soup",
+    "image": "https://images.eatthismuch.com/img/34524_erin_m_b0256fd2-c8b9-40be-a680-990b758b1050.png",
+    "price": 110,
+    "portion": 50,
+    "quantity": 1,
+    "rating": 3.3
+  },
+  {
+    "id": 3,
+    "name": "Bean Salad",
+    "image": "https://media.istockphoto.com/photos/bean-salad-picture-id114335762?k=20&m=114335762&s=612x612&w=0&h=MrMITl_fmqkEGP6bSqC3zHosdLbmKHw-tNU9azvGlEM=",
+    "price": 110,
+    "portion": 650,
+    "quantity": 1,
+    "rating": 3.2
+  },
+  {
+    "id": 4,
+    "name": "Noodle Salad",
+    "image": "https://media.istockphoto.com/photos/pasta-salad-picture-id149216941?k=20&m=149216941&s=612x612&w=0&h=8-ujKtg7f1Sw8QtP4kg5uIsEl2ennUejudx3Kowr4HQ=",
+    "price": 550,
+    "portion": 850,
+    "quantity": 1,
+    "rating": 2.5
+  }
+]

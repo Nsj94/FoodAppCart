@@ -1,0 +1,41 @@
+.ordercard {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: space-evenly;
+
+  background-color: #fff;
+  font-size: 14px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.ordercard__image img {
+  height: 30px;
+  object-fit: contain;
+}
+.ordercard__desc {
+  font-weight: 700;
+}
+.ordercard__desc span {
+  font-weight: 300;
+}
+
+.ordercard__quantity {
+  border: 1px solid var(--sidebar-main-color);
+  padding: 0px 10px;
+  border-radius: 20px;
+}
+.ordercard__quantity i {
+  display: inline-block;
+  margin: 0 5px;
+  cursor: pointer;
+}
+.ordercard__price {
+  font-size: 16px;
+  font-weight: 600;
+}
+.ordercard__remove {
+  margin-left: 6px;
+  cursor: pointer;
+}
